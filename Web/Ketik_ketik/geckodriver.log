@@ -1,0 +1,686 @@
+1596510718292	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoJWHr4"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1596510719524	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1596510721599	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1596510721600	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1596510721600	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1596510721601	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+1596510728985	Marionette	INFO	Listening on port 32821
+1596510729053	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+1596510760519	Marionette	INFO	Stopped listening on port 32821
+1596510870475	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKzK0RE"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1596510871695	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1596510873597	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1596510873598	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1596510873598	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1596510873599	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+1596510879883	Marionette	INFO	Listening on port 45567
+1596510879934	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+1596510893462	Marionette	INFO	Stopped listening on port 45567
+1596511258018	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8wIAuh"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1596511259219	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1596511261334	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1596511261334	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1596511261335	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1596511261335	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+1596511267699	Marionette	INFO	Listening on port 44395
+1596511267801	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+1596511341684	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilef4USuv"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1596511342904	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1596511344875	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1596511344875	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1596511344876	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1596511344876	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+1596511351392	Marionette	INFO	Listening on port 39331
+1596511351460	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 196: Error: Invalid autocomplete selectedIndex
+1596511371307	Marionette	INFO	Stopped listening on port 39331
+1596511376424	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewqi5kE"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1596511377643	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1596511379557	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1596511379557	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1596511379558	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1596511379559	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+1596511385529	Marionette	INFO	Listening on port 39295
+1596511385588	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+1596511440789	Marionette	INFO	Stopped listening on port 39295
+1596511444909	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejZfN5P"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1596511446110	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1596511447996	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1596511447996	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1596511447997	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1596511447997	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+1596511454327	Marionette	INFO	Listening on port 39905
+1596511454361	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+1596511574993	Marionette	INFO	Stopped listening on port 39905
+1596511584990	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9ONcmZ"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1596511586292	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1596511588315	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1596511588315	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1596511588316	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1596511588316	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+1596511595821	Marionette	INFO	Listening on port 45395
+1596511595898	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+1596511669975	Marionette	INFO	Stopped listening on port 45395
+1596511674066	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileb10jGv"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1596511675358	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1596511677337	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1596511677338	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1596511677339	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1596511677340	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+1596511687091	Marionette	INFO	Listening on port 38993
+1596511687167	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+1596511755021	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTwpk1v"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1596511756341	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1596511758235	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1596511758236	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1596511758237	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1596511758237	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+1596511765319	Marionette	INFO	Listening on port 39749
+1596511765389	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+1596511780793	Marionette	INFO	Stopped listening on port 39749
+1596511793749	Marionette	INFO	Stopped listening on port 38993
+1596511796254	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWHlytV"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1596511797541	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1596511799662	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1596511799663	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1596511799664	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1596511799664	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+1596511806438	Marionette	INFO	Listening on port 36181
+1596511806502	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+1596511843781	Marionette	INFO	Stopped listening on port 44395
+1596511993263	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileL5Nq7b"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1596511994456	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1596511996373	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1596511996373	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1596511996374	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1596511996374	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+1596512002743	Marionette	INFO	Listening on port 43705
+1596512002850	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 196: Error: Invalid autocomplete selectedIndex
+1596512092929	Marionette	INFO	Stopped listening on port 43705
+1596512094396	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehp8ONv"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1596512095613	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1596512097494	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1596512097495	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1596512097495	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1596512097496	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+1596512103703	Marionette	INFO	Listening on port 41433
+1596512103775	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 196: Error: Invalid autocomplete selectedIndex
+1596512168815	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXc9925"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1596512169992	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1596512171929	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1596512171929	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1596512171930	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1596512171930	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+1596512178273	Marionette	INFO	Listening on port 37587
+1596512178393	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 196: Error: Invalid autocomplete selectedIndex
+1596512270551	Marionette	INFO	Stopped listening on port 41433
+1596512271761	Marionette	INFO	Stopped listening on port 37587
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+1596512453510	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDDna7k"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1596512454738	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1596512456685	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1596512456685	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1596512456686	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1596512456686	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+1596512463126	Marionette	INFO	Listening on port 39015
+1596512463201	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+1596512481784	Marionette	INFO	Stopped listening on port 39015
+1596512657750	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelBV7Sp"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1596512659024	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1596512661124	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1596512661124	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1596512661125	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1596512661125	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+1596512667314	Marionette	INFO	Listening on port 42083
+1596512667405	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+1596512686241	Marionette	INFO	Stopped listening on port 42083
+1596512686566	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2bMVq6"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1596512687763	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1596512689730	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1596512689730	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1596512689731	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1596512689731	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+1596512696062	Marionette	INFO	Listening on port 45551
+1596512696140	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+1596512725685	Marionette	INFO	Stopped listening on port 45551
+1596512726380	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesSpcr2"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1596512727667	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1596512729592	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1596512729593	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1596512729593	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1596512729594	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+1596512736034	Marionette	INFO	Listening on port 46631
+1596512736145	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+1596512761536	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesdQwl0"
+1596512761605	Marionette	INFO	Stopped listening on port 46631
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1596512762789	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1596512764607	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1596512764607	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1596512764608	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1596512764608	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+1596512771043	Marionette	INFO	Listening on port 36013
+1596512771134	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+1596512846282	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejkXRhW"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1596512847663	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1596512849587	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1596512849588	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1596512849589	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1596512849589	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1596512849928	Marionette	INFO	Stopped listening on port 36013
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+1596512855968	Marionette	INFO	Listening on port 40673
+1596512856036	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 196: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+1596513240698	Marionette	INFO	Stopped listening on port 40673
+1596513243354	Marionette	INFO	Stopped listening on port 36181
+1596513245421	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerVMlj7"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1596513246624	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1596513248430	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1596513248431	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1596513248432	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1596513248432	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+1596513255105	Marionette	INFO	Listening on port 45347
+1596513256009	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 681))
+1596513256659	Marionette	INFO	Stopped listening on port 45347
+1596513262269	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePWYD45"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1596513263755	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1596513265807	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1596513265808	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1596513265809	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1596513265809	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+1596513273252	Marionette	INFO	Listening on port 39523
+1596513273363	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://gre/modules/NetworkGeolocationProvider.jsm, line 555: TypeError: xhr.response.location is undefined
+JavaScript error: resource://gre/modules/NetworkGeolocationProvider.jsm, line 555: TypeError: xhr.response.location is undefined
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 196: Error: Invalid autocomplete selectedIndex
+1596513320915	Marionette	INFO	Stopped listening on port 39523
+1596513322645	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewq5TEP"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1596513324028	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1596513325935	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1596513325936	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1596513325936	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1596513325937	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+1596513334034	Marionette	INFO	Listening on port 42649
+1596513334098	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 196: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+1596514108254	Marionette	INFO	Stopped listening on port 42649
+1596515059233	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYCCwrq"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1596515060448	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1596515062617	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1596515062618	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1596515062618	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1596515062619	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 921: Error: Connection is not open.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 921: Error: Connection is not open.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 921: Error: Connection is not open.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 921: Error: Connection is not open.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 921: Error: Connection is not open.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 921: Error: Connection is not open.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 921: Error: Connection is not open.
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBFactory::Msg_PBackgroundIDBFactoryRequestConstructor Value error: message was deserialized, but contained an illegal value
+
+1596516246513	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCxrIkp"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1596516247709	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1596516250011	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1596516250012	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1596516250012	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1596516250012	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+1596516256025	Marionette	INFO	Listening on port 45777
+1596516256087	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 196: Error: Invalid autocomplete selectedIndex
+1596516479716	Marionette	INFO	Stopped listening on port 45777
+1596591794400	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeo5isU"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1596591795679	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1596591797483	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1596591797483	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1596591797484	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1596591797484	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+1596591804243	Marionette	INFO	Listening on port 33987
+1596591804285	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 107: TypeError: cache is undefined
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 196: Error: Invalid autocomplete selectedIndex
+1596591828856	Marionette	INFO	Stopped listening on port 33987

